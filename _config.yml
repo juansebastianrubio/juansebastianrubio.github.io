@@ -85,7 +85,7 @@ author:
   bio              : "Hi! I am a first-year Mechanical Engineering Ph.D. Student at Johns Hopkins University. I like space, fluid mechanics, and helping underrepresented minorities achieve success."
   location         : "Batimore, Maryland"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B_pjEloAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
